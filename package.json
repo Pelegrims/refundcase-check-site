@@ -2,7 +2,7 @@
   "name": "refundcase-check-site",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "next": "^15.3.5"
     "build": "next build",
     "start": "next start"
   },
